@@ -2,7 +2,7 @@
 <h2>estou no segundo ano de analise e desenvolvimento de sistemas na FMU morumbi<h2/>
  <a href="https://github.com/dalik1">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dalik1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"backgroundcolor="blue"/>
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalik1&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalik1&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <img align="right" alt="amumu" height="150" src="https://media.discordapp.net/attachments/779910162634375202/933858452562915448/mummytocat.gif">
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40"/>

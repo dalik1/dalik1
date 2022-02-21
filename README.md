@@ -1,5 +1,5 @@
 <h1>OLÁ! eu sou o Mateus<h1/>
-<h2>estou no segundo ano de analise e desenvolvimento de sistemas na FMU Morumbi<h2/>
+<h2>Estou no segundo ano de analise e desenvolvimento de sistemas na FMU Morumbi<h2/>
 <a href="https://github.com/dalik1">
 <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=dalik1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"backgroundcolor="blue"/>
 <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalik1&layout=compact&langs_count=7&theme=dark"/>

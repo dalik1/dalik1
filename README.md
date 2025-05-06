@@ -1,9 +1,12 @@
 <h1>OLÁ PESSOAS! eu sou o Mateus<h1/>
 <h2>Estou no terceiro semestre de Ciencias da Computação no UNASP campus SP<h2/>
 <a href="https://github.com/dalik1">
-<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=dalik1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"backgroundcolor="blue"/>
+
 <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalik1&layout=compact&langs_count=7&theme=dark"/>
 <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
+  <img align="right" alt="amumu" height="150" src="https://media.discordapp.net/attachments/779910162634375202/933858452562915448/mummytocat.gif"><div/>
 </div>
 <div>
 

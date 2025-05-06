@@ -6,9 +6,7 @@
 <br>
 </div>
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
-<img align="right" alt="amumu" height="150" src="https://media.discordapp.net/attachments/779910162634375202/933858452562915448/mummytocat.gif"><div/>
+
 <hr>
 <div><a href="https://www.linkedin.com/in/mateus-s-oliveira-aa7015221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:mateusmateu17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><div/>
